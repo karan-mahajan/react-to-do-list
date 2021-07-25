@@ -1,0 +1,40 @@
+{
+  "properties": [
+    {
+      "name": "Property 2",
+      "size": "234920",
+      "description": "Property 2 description 1",
+      "id": 2
+    },
+    {
+      "name": "Property 3 Change",
+      "size": "3458349",
+      "description": "Property 3 description",
+      "id": 3
+    },
+    {
+      "name": "Property 4",
+      "size": "234920",
+      "description": "Property 4 description",
+      "id": 4
+    },
+    {
+      "name": "Property 5",
+      "size": "234920",
+      "description": "Property 5 description",
+      "id": 5
+    },
+    {
+      "name": "Property 7",
+      "size": "234920",
+      "description": "Property 7 description",
+      "id": 7
+    },
+    {
+      "name": "Property 8",
+      "size": "234920",
+      "description": "Property 8 description",
+      "id": 8
+    }
+  ]
+}
